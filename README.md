@@ -319,7 +319,7 @@ falsification condition* rather than being written as a wish list:
   author       = {Mingjun Cheng},
   year         = {2026},
   version      = {v0.2.0},
-  howpublished = {\url{https://github.com/ManfredCh/ai-security-foundations}},
+  howpublished = {\url{https://github.com/ManfredCh/happy-ai-security}},
   note         = {Compiled draft, data cutoff 2026-08-09. Licence: CC BY-NC-SA 4.0}
 }
 ```
@@ -353,7 +353,7 @@ keep the attribution, keep the licence, and state that it is a translation.
 ## Acknowledgements
 
 - Every paper, project, standard and incident report cited in the text — this work is a synthesis
-  of theirs. The per-paper atlas in [AI Security Surveys](https://github.com/ManfredCh/ai-security-surveys) links to 97 of
+  of theirs. The per-paper atlas in [AI Security Surveys](https://github.com/ManfredCh/ai-security-universe) links to 97 of
   them directly.
 - Review and verification passes were run as independent model passes; the record is kept locally
   rather than published.
@@ -364,17 +364,17 @@ keep the attribution, keep the licence, and state that it is a translation.
 
 ## Star History
 
-<a href="https://star-history.com/#ManfredCh/ai-security-foundations&Date">
+<a href="https://star-history.com/#ManfredCh/happy-ai-security&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ManfredCh/ai-security-foundations&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ManfredCh/ai-security-foundations&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ManfredCh/ai-security-foundations&type=Date" width="600" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ManfredCh/happy-ai-security&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ManfredCh/happy-ai-security&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ManfredCh/happy-ai-security&type=Date" width="600" />
   </picture>
 </a>
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/ManfredCh/ai-security-foundations)](https://github.com/ManfredCh/ai-security-foundations/stargazers)  ·  [![Forks](https://img.shields.io/github/forks/ManfredCh/ai-security-foundations)](https://github.com/ManfredCh/ai-security-foundations/forks)  ·  [![Issues](https://img.shields.io/github/issues/ManfredCh/ai-security-foundations)](https://github.com/ManfredCh/ai-security-foundations/issues)  ·  [![Last commit](https://img.shields.io/github/last-commit/ManfredCh/ai-security-foundations)](https://github.com/ManfredCh/ai-security-foundations/commits)
+[![Stars](https://img.shields.io/github/stars/ManfredCh/happy-ai-security)](https://github.com/ManfredCh/happy-ai-security/stargazers)  ·  [![Forks](https://img.shields.io/github/forks/ManfredCh/happy-ai-security)](https://github.com/ManfredCh/happy-ai-security/forks)  ·  [![Issues](https://img.shields.io/github/issues/ManfredCh/happy-ai-security)](https://github.com/ManfredCh/happy-ai-security/issues)  ·  [![Last commit](https://img.shields.io/github/last-commit/ManfredCh/happy-ai-security)](https://github.com/ManfredCh/happy-ai-security/commits)
 
 </div>
 
@@ -409,6 +409,6 @@ licence stated above is the operative one, and the full legal text is in [LICENS
 
 ## Related repositories
 
-- **[Generative and Embodied AI Security](https://github.com/ManfredCh/ai-security-book)** — the unified book — six parts, 24 chapters, one instrument applied across four domains
-- **[AI Security Surveys](https://github.com/ManfredCh/ai-security-surveys)** — four standalone security surveys plus the 97-paper atlas index
-- **[Foundations](https://github.com/ManfredCh/ai-security-foundations)** — the introductory tutorial and two technical-background surveys
+- **[Generative and Embodied AI Security](https://github.com/ManfredCh/hello-ai-security)** — the unified book — six parts, 24 chapters, one instrument applied across four domains
+- **[AI Security Surveys](https://github.com/ManfredCh/ai-security-universe)** — four standalone security surveys plus the 97-paper atlas index
+- **[Foundations](https://github.com/ManfredCh/happy-ai-security)** — the introductory tutorial and two technical-background surveys
