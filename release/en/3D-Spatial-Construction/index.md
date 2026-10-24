@@ -20,3 +20,7 @@
 14. [A.2 — Related movement](14-A-2-Related-movement.md)
 15. [A.3 — Cross-repository note: institutional consequence of the OpenAI–Hugging Face incident](15-A-3-Cross-repository-note-institutional-conseq.md)
 16. [A.4 — How to use this appendix](16-A-4-How-to-use-this-appendix.md)
+17. [B.1 — Interactive world models move toward product](17-B-1-Interactive-world-models-move-toward-product.md)
+18. [B.2 — Related movement](18-B-2-Related-movement.md)
+19. [B.3 — Cross-repository note: the toolchain became the supply-chain front line](19-B-3-Cross-repository-note-toolchain-as-supply-chain.md)
+20. [B.4 — How to use this appendix](20-B-4-How-to-use-this-appendix.md)

@@ -30,3 +30,7 @@
 24. [A.2 — A note on the 3D spatial construction agenda](24-A-2-A-note-on-the-3D-spatial-construction-agen.md)
 25. [A.3 — Institutional consequence of the OpenAI–Hugging Face incident (cross-repository note)](25-A-3-Institutional-consequence-of-the-OpenAI-Hu.md)
 26. [A.4 — How to use this appendix](26-A-4-How-to-use-this-appendix.md)
+27. [B.1 — Model-stack movement (2026-09-26 → 2026-10-25)](27-B-1-Model-stack-movement-2026-09-26-2026-10-25.md)
+28. [B.2 — Authenticity and misuse events](28-B-2-Authenticity-and-misuse-events.md)
+29. [B.3 — Cross-repository note: the toolchain became the supply-chain front line](29-B-3-Cross-repository-note-toolchain-as-supply-chain.md)
+30. [B.4 — How to use this appendix](30-B-4-How-to-use-this-appendix.md)
