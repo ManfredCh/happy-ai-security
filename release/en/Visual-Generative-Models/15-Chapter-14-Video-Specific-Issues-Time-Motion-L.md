@@ -50,6 +50,8 @@ Evidence boundary: the video cards are still positioned mainly at the chapter le
 
 Transition: Chapter 15 audits image and video data, metrics and protocol comparability.
 
+
+The frontier video tier itself moved in October 2026: OpenAI removed sora-2 and sora-2-pro from the Videos API (410 Gone, no named successor); Google scheduled the Veo 3.1 preview endpoints for shutdown from 2026-10-22 with Gemini Omni 1.1 Flash named as replacement; Kling 4.0 was announced (30 s, 4K claims); Wan 3.0 topped public leaderboards; and Seedance 2.5 established the ~30 s reference-clip class. Temporal-evaluation claims in this chapter should be re-anchored to the new generator set.
 ---
 
 [← Back to contents](index.md)

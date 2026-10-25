@@ -82,6 +82,8 @@ Transition: Chapter 17 maps the risks of training data, outputs, platform and us
 - ECO-Y035｜Kling AI 3.0｜Type closed_service｜Mechanism product family covering Video 3.0, Omni, Image 3.0 and Omni｜Code closed｜Weights closed｜Hardware provider-run service｜Author-reported efficiency NR｜Evidence status official_product_evidence｜Comparability availability and quotas require a live product check｜Boundary corporate announcement is not independent benchmark evidence [@src_s_ext_effdb7b60b6799e6]
 - ECO-Y036｜Cosmos 3｜Type open_weight_world_model｜Mechanism omnimodal backbone spanning reasoning, generation, policy and dynamics｜Code public code link｜Weights public model-card links｜Hardware NVIDIA hardware ecosystem｜Author-reported efficiency NR｜Evidence status official_research_release｜Comparability task-specific evaluation only｜Boundary rank-1 claims are provider summaries and must not be pooled with other protocols [@src_s_ext_0aa0fa2de9f38b24; @src_s_ext_129b2c193f5b258e]
 
+
+On the deployment side, Perplexity open-sourced SPACE, the Firecracker microVM sandbox behind its Computer agent. The wider toolchain record matters here too: October's LiteLLM compromise, the tensorlake sandbox-SDK worm, GhostAction's fake audit workflows across 346 repositories, and dozens of harness/SDK CVEs mean generation pipelines inherit the same package and transport layer that was the month's busiest attacked surface.
 ---
 
 [← Back to contents](index.md)

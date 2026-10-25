@@ -286,6 +286,8 @@ The fifth limitation concerns Marble. Its internal algorithms, paid-service beha
 
 Finally, this survey uses a publisher-neutral Chinese generic template. It has not yet selected a specific journal or conference, and it has not verified page counts, anonymity policy, citation style, or official class files. Therefore, even if the PDF compiles, the status can only be compiled-draft.
 
+
+Two October releases extend this chapter's frame. Towards Safe World Models (arXiv 2610.13372) organises a 163-work safety corpus around a six-stage lifecycle — a usable safety map over exactly the L4/L5 deployment zone. The Survey of Security in Real-World Agents (2026-10-14) audits plan-level versus physical-level evidence, applying the same discipline as this survey's host-deployment boundary.
 ---
 
 [← Back to contents](index.md)

@@ -1378,6 +1378,8 @@ Omniverse/Isaac Sim Replicator synthetic data. Procedural scenes let randomized 
 
 These five automation routes share the same nine-step publishing algorithm. Normalize the spec and hash it. Use a one-shot isolated workspace. Generate/import visual geometry. Generate collision independently. Generate and accept LOD. Bake each agent's NavMesh from the approved collision source. Export engine/USD/training data. Read back and compare queries in a fresh consumer process. Promote atomically from a control plane separated from user scripts. Any failure destroys only the staging generation. It must not mix half a visual asset, a stale collider or misaligned-frame labels into the official world.
 
+
+October 2026 moved the sparsest rungs. Odyssey-3 shipped as a real-time interactive foundation world model — an autoregressive diffusion transformer with first/third-person navigation and independent camera movement, Physics-IQ Verified at 66.1 — bringing the L5 'persistent interactive world' from demonstration toward product claim, though no persistent editable asset or collision contract is published. LGWM (arXiv 2610.11942) reused learned dynamics as a checking layer: a decoder-free action-conditioned world model verifying GUI-agent transitions at 0.987 AUC, 17 ms per decision. The month's video-stack churn (Sora API removal, Veo 3.1 → Gemini Omni, Kling 4.0, open-weight FLUX 3 Klein) keeps compressing the appearance side of L0–L2.
 ---
 
 [← Back to contents](index.md)

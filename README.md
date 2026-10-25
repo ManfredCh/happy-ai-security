@@ -33,6 +33,7 @@
 - [Languages and editions](#languages-and-editions)
 - [Repository layout](#repository-layout)
 - [Changelog](#changelog)
+  - [v0.4.0 — 2026-10-25](#v040--2026-10-25)
   - [v0.3.0 — 2026-10-25](#v030--2026-10-25)
   - [v0.2.0 — 2026-09-26](#v020--2026-09-26)
   - [v0.1.0 — 2026-09-26](#v010--2026-09-26)
@@ -207,6 +208,9 @@ A `source/` directory holds structured sources (`paper.json`, figures, evidence)
 
 ## Changelog
 
+### v0.4.0 — 2026-10-25
+- Sentence-level revision: the October material moved from the B-series appendices into the sentences and sections it extends, in every document and both languages. The B appendix files were removed as superseded; the body data cutoff stays unchanged, with later material tracked by explicit in-text dates.
+
 ### v0.3.0 — 2026-10-25
 - **Second post-cutoff appendix added to every document**, covering material found in a search on
   2026-10-25 (window 2026-09-26 → 2026-10-25). The body text remains unchanged.
@@ -345,7 +349,7 @@ falsification condition* rather than being written as a wish list:
   title        = {Foundations: An Introductory Tutorial and Two Technical-Background Surveys},
   author       = {Mingjun Cheng},
   year         = {2026},
-  version      = {v0.3.0},
+  version      = {v0.4.0},
   howpublished = {\url{https://github.com/ManfredCh/happy-ai-security}},
   note         = {Compiled draft, data cutoff 2026-08-09. Licence: CC BY-NC-SA 4.0}
 }
